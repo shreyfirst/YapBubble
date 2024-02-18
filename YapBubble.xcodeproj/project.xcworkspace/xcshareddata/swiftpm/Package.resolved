@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "convex-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MathieuTricoire/convex-swift",
+      "state" : {
+        "revision" : "78c30e39ef080c805c6d8dc24eceedcc1245e958",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
